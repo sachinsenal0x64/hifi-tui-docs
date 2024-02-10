@@ -1,24 +1,15 @@
 export default defineAppConfig({
   docus: {
-    title: 'Hifi Tui',
-    description: 'The best place to start your documentation.',
-    image: 'https://user-images.githubusercontent.com/904724/185365452-87b7ca7b-6030-4813-a2db-5e65c785bf88.png',    
+    title: 'Nuxt Color Mode',
+    layout: 'default',
+    url: 'https://color-mode.nuxtjs.org',
+    description: 'Dark and Light mode with auto detection made easy with Nuxt 🌗',
     socials: {
       github: 'nuxt-modules/color-mode'
     },
     aside: {
-      level: 0,
-      collapsed: false,
-      exclude: []
+      level: 1
     },
-    main: {
-      padded: true,
-      fluid: true
-    },
-    header: {
-      logo: true,
-      showLinkIcon: true,
-      exclude: [],
-      fluid: true
     }
+  }
 })
