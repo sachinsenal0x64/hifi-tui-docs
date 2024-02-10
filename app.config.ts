@@ -21,4 +21,9 @@ export default defineAppConfig({
       exclude: [],
       fluid: true
     },
+    footer: {
+			credits: {
+				text: 'github.com/sachinsenal0x64',
+			}
+		}
 })
