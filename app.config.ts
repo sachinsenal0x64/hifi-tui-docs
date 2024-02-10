@@ -20,6 +20,11 @@ export default defineAppConfig({
       showLinkIcon: true,
       exclude: [],
       fluid: true
-    }
+    },
+    footer: {
+			credits: {
+				text: 'All rights reserved © 2024 Sachin Senal'
+			}
+		}
   }
 })
