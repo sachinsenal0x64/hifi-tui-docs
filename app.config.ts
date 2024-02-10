@@ -26,4 +26,5 @@ export default defineAppConfig({
 				text: 'github.com/sachinsenal0x64',
 			}
 		}
+  }
 })
