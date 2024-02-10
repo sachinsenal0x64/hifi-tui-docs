@@ -22,7 +22,7 @@ export default defineAppConfig({
     },
     header: {
       logo: false,
-      title:'Hifi Tui',
+      title:'Hifi-Tui',
       showLinkIcon: true,
       exclude: [],
       fluid: true
