@@ -21,7 +21,7 @@ export default defineAppConfig({
       fluid: true
     },
     header: {
-      logo: '©',
+      logo: false,
       title:'Hifi Tui',
       showLinkIcon: true,
       exclude: [],
