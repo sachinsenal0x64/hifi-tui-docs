@@ -21,9 +21,4 @@ export default defineAppConfig({
       exclude: [],
       fluid: true
     },
-    footer: {
-       credits: {
-         text: 'All rights reserved © 2024 Sachin Senal'
-       }
-  }
 })
