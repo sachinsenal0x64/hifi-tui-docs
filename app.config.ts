@@ -1,11 +1,11 @@
 export default defineAppConfig({
   docus: {
-    title: 'Nuxt Color Mode',
+    title: 'Hifi Tui',
     layout: 'default',
-    url: 'https://color-mode.nuxtjs.org',
+    url: 'https://tidal.401658.xyz',
     description: 'Dark and Light mode with auto detection made easy with Nuxt 🌗',
     socials: {
-      github: 'nuxt-modules/color-mode'
+      github: 'sachinsenal0x64/Hifi-Tui'
     },
     aside: {
       level: 1
