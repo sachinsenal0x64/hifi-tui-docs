@@ -22,9 +22,8 @@ export default defineAppConfig({
       fluid: true
     },
     footer: {
-			credits: {
-				text: 'github.com/sachinsenal0x64',
-			}
-		}
+	credits: {text: 'github.com/sachinsenal0x64',
+	}
+     }
   }
 })
