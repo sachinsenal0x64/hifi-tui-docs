@@ -27,6 +27,12 @@ export default defineAppConfig({
       showLinkIcon: true,
       exclude: [],
       fluid: true
-    }
+    },
+    
+    footer: {
+      credits: {
+        icon: '',
+        href: 'https://haraka.github.io/',
+      },
   }
 })
