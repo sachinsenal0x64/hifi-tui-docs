@@ -24,7 +24,8 @@ export default defineAppConfig({
     footer: {
 	credits: {
 	    icon: "",
-	    text: 'github.com/sachinsenal0x64',
+	    text: '© Published Under Mit License',
+	    href: 'https://github.com/sachinsenal0x64/Hifi-Tui?tab=MIT-1-ov-file#readme'
 	    
 	}
      }
