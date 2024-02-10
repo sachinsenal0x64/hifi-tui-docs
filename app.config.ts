@@ -22,7 +22,7 @@ export default defineAppConfig({
     },
     header: {
       logo: 'fa-brands:discord',
-      title:'Hifi-Tui',
+      title:'Hifi Tui',
       showLinkIcon: true,
       exclude: [],
       fluid: true
