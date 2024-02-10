@@ -1,15 +1,30 @@
 export default defineAppConfig({
   docus: {
     title: 'Hifi Tui',
-    layout: 'default',
-    url: 'https://tidal.401658.xyz',
-    description: 'Dark and Light mode with auto detection made easy with Nuxt 🌗',
-    socials: {
-      github: 'sachinsenal0x64/Hifi-Tui'
+    description: 'The best place to start your documentation.',
+    image: 'https://user-images.githubusercontent.com/904724/185365452-87b7ca7b-6030-4813-a2db-5e65c785bf88.png',
+    
+    github: {
+      dir: '.starters/default/content',
+      branch: 'main',
+      repo: 'docus',
+      owner: 'nuxt-themes',
+      edit: true
     },
     aside: {
-      level: 1
+      level: 0,
+      collapsed: false,
+      exclude: []
     },
+    main: {
+      padded: true,
+      fluid: true
+    },
+    header: {
+      logo: true,
+      showLinkIcon: true,
+      exclude: [],
+      fluid: true
     }
   }
 })
