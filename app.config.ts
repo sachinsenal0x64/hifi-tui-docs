@@ -23,6 +23,7 @@ export default defineAppConfig({
     },
     footer: {
 	credits: {
+	    icon: "IconCopyright",
 	    text: 'github.com/sachinsenal0x64',
 	}
      }
