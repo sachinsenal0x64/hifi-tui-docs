@@ -2,7 +2,7 @@ export default defineAppConfig({
   docus: {
     title: 'Hifi Tui',
     description: 'Cross Platform Premium Tidal Hifi Music Player In Your Terminal.',
-    image: 'https://sachinsenal0x64.github.io/picx-images-hosting/cover.71xt48aegn0g.webp',
+    image: 'https://sachinsenal0x64.github.io/picx-images-hosting/Who-needs-a-boyriend-when-you-have-the-best-set-of-friends..3anz50x00yrk.webp',
     socials: {
       github: 'sachinsenal0x64/Hifi-Tui',
       discord: {
