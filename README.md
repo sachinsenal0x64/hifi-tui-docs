@@ -1,7 +1,7 @@
 # 📄 Documentation
 
-https://docs.tidal.401658.xyz
-https://hifi-tui-docs.pages.dev (Backup)
+-  https://docs.tidal.401658.xyz
+-  https://hifi-tui-docs.pages.dev (Backup Url)
 
 
 # 🤝 Contribute
