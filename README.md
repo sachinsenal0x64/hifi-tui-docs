@@ -1,3 +1,5 @@
+## 💠 Docs are Work In Progress
+
 # 📄 Documentation
 
 -  https://hifitui.401658.xyz
