@@ -1,4 +1,4 @@
-# Docus Starter
+# 🤝 Contribute
 
 Starter template for [Docus](https://docus.dev).
 
