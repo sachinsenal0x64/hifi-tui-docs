@@ -1,6 +1,6 @@
 # 📄 Documentation
 
--  https://docs.tidal.401658.xyz
+-  https://hifitui.401658.xyz
 -  https://hifi-tui-docs.pages.dev (Backup Url)
 
 
