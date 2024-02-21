@@ -5,7 +5,7 @@
 # 📄 Documentation
 
 -  https://hifitui.401658.xyz
--  https://hifi-tui-docs.pages.dev (Backup Url)
+-  https://hifitui.pages.dev (Backup Url)
 - [API-DOCS](https://github.com/sachinsenal0x64/hifi-tui?tab=readme-ov-file#-api-documentation)
 
 <br>
