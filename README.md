@@ -14,8 +14,6 @@
 
 Feel free to send PR's regarding spelling mistakes, incorrect grammar etc.
 
-Starter template for [Docus](https://docus.dev).
-
 ## Clone
 
 Clone the repository (using `nuxi`):
